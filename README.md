@@ -36,8 +36,8 @@ A Django-based fashion e-commerce web application featuring product browsing, us
    ```bash
    python manage.py migrate
 5. Start the development server:
-  ```bash
-  python manage.py runserver
+   ```bash
+   python manage.py runserver
 
 ```
 ## Note
