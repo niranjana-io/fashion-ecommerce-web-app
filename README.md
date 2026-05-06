@@ -39,7 +39,6 @@ A Django-based fashion e-commerce web application featuring product browsing, us
    ```bash
    python manage.py runserver
 
-```
-## Note
 
+## Note
 Product data and images were imported separately for development purposes.
