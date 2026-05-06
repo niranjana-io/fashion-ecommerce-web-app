@@ -1,0 +1,602 @@
+[
+  {
+    "name": "Zuba Peach Embroidered A-Line Kurta",
+    "price": "2799.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301018972PEACH_1.jpg?v=1746701114",
+    "image_path": "images\\zuba-peach-embroidered-a-line-kurta-301018972.jpg"
+  },
+  {
+    "name": "Zuba Peach Solid Ethnic Pants",
+    "price": "1299.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301018969PEACH_1.jpg?v=1746701114",
+    "image_path": "images\\zuba-peach-solid-ethnic-pants-301018969.jpg"
+  },
+  {
+    "name": "Zuba Peach Foliage Printed A-Line Kurta",
+    "price": "2599.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301019559PEACH_1.jpg?v=1746701113",
+    "image_path": "images\\zuba-peach-foliage-printed-a-line-kurta-301019559.jpg"
+  },
+  {
+    "name": "Zuba Beige Floral Printed A-Line Kurta",
+    "price": "2599.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301019558BEIGE_1.jpg?v=1747289242",
+    "image_path": "images\\zuba-beige-floral-printed-a-line-kurta-301019558.jpg"
+  },
+  {
+    "name": "Zuba Off-White Floral Pattern A-Line Kurta",
+    "price": "1599.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301019340OFFWHITE_1.jpg?v=1747289243",
+    "image_path": "images\\zuba-off-white-floral-pattern-a-line-kurta-301019340.jpg"
+  },
+  {
+    "name": "Zuba Off-White Floral Design Palazzos",
+    "price": "999.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301019333OFFWHITE_1.jpg?v=1747289244",
+    "image_path": "images\\zuba-off-white-floral-design-palazzos-301019333.jpg"
+  },
+  {
+    "name": "Utsa Black Abstract Design Cotton Tunic",
+    "price": "799.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301019990BLACK_1.jpg?v=1745488671",
+    "image_path": "images\\utsa-black-abstract-design-cotton-tunic-301019990.jpg"
+  },
+  {
+    "name": "Utsa Black Abstract Pattern Cotton Palazzos",
+    "price": "999.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301019994BLACK_1.jpg?v=1745488670",
+    "image_path": "images\\utsa-black-abstract-pattern-cotton-palazzos-301019994.jpg"
+  },
+  {
+    "name": "Utsa Indigo Embroidered Cotton Top",
+    "price": "999.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301014691INDIGO_2.jpg?v=1746249818",
+    "image_path": "images\\utsa-indigo-embroidered-cotton-top-301014691.jpg"
+  },
+  {
+    "name": "Utsa Navy Botanical Design Wrap-Style Cotton-Blend Skirt",
+    "price": "999.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301019993NAVY_1.jpg?v=1746011283",
+    "image_path": "images\\utsa-navy-botanical-design-wrap-style-cotton-blend-skirt-301019993.jpg"
+  },
+  {
+    "name": "Utsa Mustard Tie-Dye Design Cotton A-Line Kurta",
+    "price": "999.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301017871YELLOW_1.jpg?v=1746011283",
+    "image_path": "images\\utsa-mustard-tie-dye-design-cotton-a-line-kurta-301017871.jpg"
+  },
+  {
+    "name": "Utsa Mustard Tie-Dye Pattern Cotton Ethnic Pants",
+    "price": "799.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301017875YELLOW_1.jpg?v=1746011282",
+    "image_path": "images\\utsa-mustard-tie-dye-pattern-cotton-ethnic-pants-301017875.jpg"
+  },
+  {
+    "name": "Utsa Purple Tie-Dye Printed Cotton A-Line Kurta",
+    "price": "999.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301022155PURPLE_1.jpg?v=1745554266",
+    "image_path": "images\\utsa-purple-tie-dye-printed-cotton-a-line-kurta-301022155.jpg"
+  },
+  {
+    "name": "Utsa Purple Tie-Dye Detailed Cotton Ethnic Pants",
+    "price": "799.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301022191PURPLE_1.jpg?v=1745554265",
+    "image_path": "images\\utsa-purple-tie-dye-detailed-cotton-ethnic-pants-301022191.jpg"
+  },
+  {
+    "name": "Utsa Yellow Floral Embroidered Cotton Kurti",
+    "price": "999.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301017205YELLOW_1.jpg?v=1746160639",
+    "image_path": "images\\utsa-yellow-floral-embroidered-cotton-kurti-301017205.jpg"
+  },
+  {
+    "name": "Utsa Pink Floral Embroidered Cotton Kurti",
+    "price": "999.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301017204PINK_1.jpg?v=1746160638",
+    "image_path": "images\\utsa-pink-floral-embroidered-cotton-kurti-301017204.jpg"
+  },
+  {
+    "name": "Bombay Paisley Multicolour Printed Cotton Shirt Dress",
+    "price": "1299.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301019712GREEN_1.jpg?v=1746160638",
+    "image_path": "images\\bombay-paisley-multicolour-printed-cotton-shirt-dress-301019712.jpg"
+  },
+  {
+    "name": "Bombay Paisley Green Floral Design Cotton Tiered Dress",
+    "price": "1499.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301019826PINK_1.jpg?v=1746160638",
+    "image_path": "images\\bombay-paisley-green-floral-design-cotton-tiered-dress-301019826.jpg"
+  },
+  {
+    "name": "Bombay Paisley Blue Foliage Design Wrap-Style Dress",
+    "price": "1499.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301019708GREEN_1.jpg?v=1746199740",
+    "image_path": "images\\bombay-paisley-blue-foliage-design-wrap-style-dress-301019708.jpg"
+  },
+  {
+    "name": "Bombay Paisley Blue Floral Embroidered Tiered Cotton Dress",
+    "price": "1499.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301019707BLUE_1.jpg?v=1747289253",
+    "image_path": "images\\bombay-paisley-blue-floral-embroidered-tiered-cotton-dress-301019707.jpg"
+  },
+  {
+    "name": "Bombay Paisley Off-White Striped Cotton-Blend A-Line Dress",
+    "price": "1699.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301019688OFFWHITE_2.jpg?v=1747203388",
+    "image_path": "images\\bombay-paisley-off-white-striped-cotton-blend-a-line-dress-301019688.jpg"
+  },
+  {
+    "name": "Bombay Paisley Black Floral Cotton Tiered Dress",
+    "price": "1499.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301019691BLACK_1.jpg?v=1746691659",
+    "image_path": "images\\bombay-paisley-black-floral-cotton-tiered-dress-301019691.jpg"
+  },
+  {
+    "name": "Bombay Paisley Off-White Floral Design A-Line Dress",
+    "price": "1299.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301019689WHITE_3.jpg?v=1747203352",
+    "image_path": "images\\bombay-paisley-off-white-floral-design-a-line-dress-301019689.jpg"
+  },
+  {
+    "name": "Bombay Paisley Off-White Floral Cotton Peplum Top",
+    "price": "999.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301021079OFFWHITE_2.jpg?v=1747203190",
+    "image_path": "images\\bombay-paisley-off-white-floral-cotton-peplum-top-301021079.jpg"
+  },
+  {
+    "name": "Bombay Paisley White Paisley Printed Cotton Top",
+    "price": "999.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301019714OFFWHITE_1.jpg?v=1746792734",
+    "image_path": "images\\bombay-paisley-white-paisley-printed-cotton-top-301019714.jpg"
+  },
+  {
+    "name": "Bombay Paisley Black Scallop Detailed Cotton Top",
+    "price": "799.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301020717BLACK_2.jpg?v=1747465540",
+    "image_path": "images\\bombay-paisley-black-scallop-detailed-cotton-top-301020717.jpg"
+  },
+  {
+    "name": "Utsa Blue Floral Patterned A-Line Kurta",
+    "price": "999.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301018611BLUE_1.jpg?v=1746616822",
+    "image_path": "images\\utsa-blue-floral-patterned-a-line-kurta-301018611.jpg"
+  },
+  {
+    "name": "Utsa Grey Botanical Pattern Straight Cotton Kurta",
+    "price": "699.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301022159GREY_1.jpg?v=1746678395",
+    "image_path": "images\\utsa-grey-botanical-pattern-straight-cotton-kurta-301022159.jpg"
+  },
+  {
+    "name": "Utsa Green Botanical Pattern Straight Kurta",
+    "price": "999.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301018457ACIDGREEN_1.jpg?v=1746616822",
+    "image_path": "images\\utsa-green-botanical-pattern-straight-kurta-301018457.jpg"
+  },
+  {
+    "name": "Utsa Yellow Foliage Design Straight Cotton Kurta",
+    "price": "699.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301022177YELLOW_1.jpg?v=1746678395",
+    "image_path": "images\\utsa-yellow-foliage-design-straight-cotton-kurta-301022177.jpg"
+  },
+  {
+    "name": "Utsa Pink Paisley Design Cotton Straight Kurta",
+    "price": "699.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301019422PINK_1.jpg?v=1745554265",
+    "image_path": "images\\utsa-pink-paisley-design-cotton-straight-kurta-301019422.jpg"
+  },
+  {
+    "name": "Utsa Pink Tie-Dye Design Cotton Ethnic Pants",
+    "price": "799.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301017874PINK_1.jpg?v=1745554266",
+    "image_path": "images\\utsa-pink-tie-dye-design-cotton-ethnic-pants-301017874.jpg"
+  },
+  {
+    "name": "Vark Mint Printed A-Line Kurta, Palazzos and Dupatta Set",
+    "price": "2599.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301019036MINT_1.jpg?v=1746701114",
+    "image_path": "images\\vark-mint-printed-a-line-kurta-palazzos-and-dupatta-set-301019036.jpg"
+  },
+  {
+    "name": "Vark Off-White Cotton-Blend Kurti, Sharara and Dupatta Set",
+    "price": "3799.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301017546OFFWHITE_1.jpg?v=1746701114",
+    "image_path": "images\\vark-off-white-cotton-blend-kurti-sharara-and-dupatta-set-301017546.jpg"
+  },
+  {
+    "name": "Vark Dark Blue A-Line Kurta, Ethnic Pants and Dupatta Set",
+    "price": "2599.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301019035COBALT_1.jpg?v=1746701114",
+    "image_path": "images\\vark-dark-blue-a-line-kurta-ethnic-pants-and-dupatta-set-301019035.jpg"
+  },
+  {
+    "name": "Zuba Peach Floral Buta Design A-Line Kurta",
+    "price": "1599.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301019341PEACH_2.jpg?v=1748347313",
+    "image_path": "images\\zuba-peach-floral-buta-design-a-line-kurta-301019341.jpg"
+  },
+  {
+    "name": "Vark Dark Peach Floral A-Line Kurta, Palazzos Dupatta Set",
+    "price": "2299.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301013339PEACH_1.jpg?v=1746191383",
+    "image_path": "images\\vark-dark-peach-floral-a-line-kurta-palazzos-dupatta-set-301013339.jpg"
+  },
+  {
+    "name": "Diza Blue Foliage Design Tunic",
+    "price": "999.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301018374BLUE_2.jpg?v=1747632042",
+    "image_path": "images\\diza-blue-foliage-design-tunic-301018374.jpg"
+  },
+  {
+    "name": "Vark Yellow Botanical A-Line Kurta, Palazzos & Dupatta Set",
+    "price": "3299.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301014898YELLOW_1.jpg?v=1746011190",
+    "image_path": "images\\vark-yellow-botanical-a-line-kurta-palazzos-dupatta-set-301014898.jpg"
+  },
+  {
+    "name": "Diza Indigo Fruit Printed Tunic",
+    "price": "999.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301018376INDIGO_1.jpg?v=1746011282",
+    "image_path": "images\\diza-indigo-fruit-printed-tunic-301018376.jpg"
+  },
+  {
+    "name": "Diza Brown Floral Design Tunic",
+    "price": "999.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301018375BROWN_1.jpg?v=1746011251",
+    "image_path": "images\\diza-brown-floral-design-tunic-301018375.jpg"
+  },
+  {
+    "name": "Utsa Off-White Gond Pattern Cotton-Blend A-Line Kurta",
+    "price": "1299.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301017659NATURAL_1.jpg?v=1746011284",
+    "image_path": "images\\utsa-off-white-gond-pattern-cotton-blend-a-line-kurta-301017659.jpg"
+  },
+  {
+    "name": "Vark Black Floral Embellished A-Line Dress",
+    "price": "2299.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301015608BLACK_1.jpg?v=1746011282",
+    "image_path": "images\\vark-black-floral-embellished-a-line-dress-301015608.jpg"
+  },
+  {
+    "name": "Vark Yellow Ombre High-Low Kurta, Inner and Pants Set",
+    "price": "2999.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301015607YELLOW_1.jpg?v=1746011251",
+    "image_path": "images\\vark-yellow-ombre-high-low-kurta-inner-and-pants-set-301015607.jpg"
+  },
+  {
+    "name": "Diza Pink Leaf Design Cotton Ethnic Pants",
+    "price": "999.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301015844LILAC_1.jpg?v=1745586210",
+    "image_path": "images\\diza-pink-leaf-design-cotton-ethnic-pants-301015844.jpg"
+  },
+  {
+    "name": "Diza Pink Leaf Design Cotton Ethnic Tunic",
+    "price": "999.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301015846LILAC_1_85cc4382-d4db-4fa3-b4f2-a40939b4a032.jpg?v=1747139798",
+    "image_path": "images\\diza-pink-leaf-design-cotton-ethnic-tunic-301015846.jpg"
+  },
+  {
+    "name": "Diza Orange Paisley Embroidered Cotton Tunic",
+    "price": "999.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301015847ORANGE_1.jpg?v=1745586209",
+    "image_path": "images\\diza-orange-paisley-embroidered-cotton-tunic-301015847.jpg"
+  },
+  {
+    "name": "Diza Off-White Embroidered Straight Kurti",
+    "price": "1299.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301014520OFFWHITE_1.jpg?v=1745586209",
+    "image_path": "images\\diza-off-white-embroidered-straight-kurti-301014520.jpg"
+  },
+  {
+    "name": "Utsa Aqua Floral Printed A-Line Kurta",
+    "price": "1299.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301016317AQUA_1.jpg?v=1745554265",
+    "image_path": "images\\utsa-aqua-floral-printed-a-line-kurta-301016317.jpg"
+  },
+  {
+    "name": "Utsa Black Tie-Dye Pattern Cotton A-Line Dress",
+    "price": "1499.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301019728BLACK_1.jpg?v=1745554265",
+    "image_path": "images\\utsa-black-tie-dye-pattern-cotton-a-line-dress-301019728.jpg"
+  },
+  {
+    "name": "Bombay Paisley Ivory Floral Embroidered Cotton Blouse",
+    "price": "999.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301017083IVORY_1.jpg?v=1745495467",
+    "image_path": "images\\bombay-paisley-ivory-floral-embroidered-cotton-blouse-301017083.jpg"
+  },
+  {
+    "name": "Bombay Paisley White Embroidered Cotton-Blend Jumpsuit",
+    "price": "1699.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301017082IVORY_1.jpg?v=1745495460",
+    "image_path": "images\\bombay-paisley-white-embroidered-cotton-blend-jumpsuit-301017082.jpg"
+  },
+  {
+    "name": "Vark Mauve Foliage A-Line Kurta, Palazzos and Dupatta Set",
+    "price": "2299.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301013338LILAC_1.jpg?v=1745495457",
+    "image_path": "images\\vark-mauve-foliage-a-line-kurta-palazzos-and-dupatta-set-301013338.jpg"
+  },
+  {
+    "name": "Bombay Paisley Ivory Embroidered Cotton-Blend Top",
+    "price": "799.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301017191IVORY_1.jpg?v=1745495460",
+    "image_path": "images\\bombay-paisley-ivory-embroidered-cotton-blend-top-301017191.jpg"
+  },
+  {
+    "name": "Vark Lilac Embellished A-Line Kurti, Palazzos and Sash Set",
+    "price": "2299.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301015604LILAC_1.jpg?v=1745495458",
+    "image_path": "images\\vark-lilac-embellished-a-line-kurti-palazzos-and-sash-set-301015604.jpg"
+  },
+  {
+    "name": "Utsa Off-White Printed Cotton-Blend Skirt",
+    "price": "1299.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301015134WHITE_1.jpg?v=1745488671",
+    "image_path": "images\\utsa-off-white-printed-cotton-blend-skirt-301015134.jpg"
+  },
+  {
+    "name": "Utsa Off-White Printed Cotton-Blend Top",
+    "price": "799.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301015133NATURAL_2.jpg?v=1745641515",
+    "image_path": "images\\utsa-off-white-printed-cotton-blend-top-301015133.jpg"
+  },
+  {
+    "name": "Utsa Lilac Printed Straight Cotton Kurta",
+    "price": "699.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301019424PURPLE_1.jpg?v=1745475708",
+    "image_path": "images\\utsa-lilac-printed-straight-cotton-kurta-301019424.jpg"
+  },
+  {
+    "name": "Studiowest Glow Filter Lilac Dust Lip Oil - 4.5 ml",
+    "price": "495.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301002901001_1.jpg?v=1745471430",
+    "image_path": "images\\studiowest-glow-filter-lilac-dust-lip-oil-4-5-ml-301002901001.jpg"
+  },
+  {
+    "name": "Westside Accessories Gold & White Shell Statement Hoop Earrings",
+    "price": "399.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301017773001_1.jpg?v=1745210145",
+    "image_path": "images\\westside-accessories-gold-white-shell-statement-hoop-earrings-301017773001.jpg"
+  },
+  {
+    "name": "Utsa Navy Botanical Pattern Cotton Straight Kurta",
+    "price": "699.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301015618NAVY_1.jpg?v=1744812311",
+    "image_path": "images\\utsa-navy-botanical-pattern-cotton-straight-kurta-301015618.jpg"
+  },
+  {
+    "name": "Diza Purple Printed A-Line Kurta",
+    "price": "1899.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301014525PURPLE_1.jpg?v=1744812303",
+    "image_path": "images\\diza-purple-printed-a-line-kurta-301014525.jpg"
+  },
+  {
+    "name": "Utsa Off-White Embroidered Cotton-Blend A-Line Kurta",
+    "price": "1299.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301014905NATURAL_1.jpg?v=1744812305",
+    "image_path": "images\\utsa-off-white-embroidered-cotton-blend-a-line-kurta-301014905.jpg"
+  },
+  {
+    "name": "Utsa Off-White Embroidered Cotton-Blend Ethnic Pants",
+    "price": "899.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301014923NATURAL_1.jpg?v=1744812305",
+    "image_path": "images\\utsa-off-white-embroidered-cotton-blend-ethnic-pants-301014923.jpg"
+  },
+  {
+    "name": "Utsa White Checkered Cotton A-Line Kurta",
+    "price": "1299.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301008454NATURAL_1.jpg?v=1744812273",
+    "image_path": "images\\utsa-white-checkered-cotton-a-line-kurta-301008454.jpg"
+  },
+  {
+    "name": "Bombay Paisley White Floral Printed Cotton A-Line Dress",
+    "price": "1499.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301016970OFFWHITE_1.jpg?v=1744808722",
+    "image_path": "images\\bombay-paisley-white-floral-printed-cotton-a-line-dress-301016970.jpg"
+  },
+  {
+    "name": "Bombay Paisley Indigo Tie-Dye Cotton A-Line Dress with Jacket",
+    "price": "1999.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301017076INDIGO_1.jpg?v=1744808740",
+    "image_path": "images\\bombay-paisley-indigo-tie-dye-cotton-a-line-dress-with-jacket-301017076.jpg"
+  },
+  {
+    "name": "Bombay Paisley Indigo Paisley Printed Shirt",
+    "price": "799.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301017089INDIGO_1.jpg?v=1744808724",
+    "image_path": "images\\bombay-paisley-indigo-paisley-printed-shirt-301017089.jpg"
+  },
+  {
+    "name": "Bombay Paisley Indigo Printed Cotton A-Line Dress",
+    "price": "1499.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301017079INDIGO_1.jpg?v=1744808735",
+    "image_path": "images\\bombay-paisley-indigo-printed-cotton-a-line-dress-301017079.jpg"
+  },
+  {
+    "name": "Bombay Paisley White Floral Embroidered Cotton A-Line Dress",
+    "price": "1299.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301016963IVORY_1.jpg?v=1744808723",
+    "image_path": "images\\bombay-paisley-white-floral-embroidered-cotton-a-line-dress-301016963.jpg"
+  },
+  {
+    "name": "Zuba Dusty Peach Embroidered A-Line Cotton-Blend Kurta",
+    "price": "3299.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301014938PINK_1.jpg?v=1744808725",
+    "image_path": "images\\zuba-dusty-peach-embroidered-a-line-cotton-blend-kurta-301014938.jpg"
+  },
+  {
+    "name": "Zuba Dusty Blue Floral Pattern Straight Kurta",
+    "price": "2599.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301014931DUSTYBLUE_1.jpg?v=1744808663",
+    "image_path": "images\\zuba-dusty-blue-floral-pattern-straight-kurta-301014931.jpg"
+  },
+  {
+    "name": "Zuba Blue Botanical Design A-Line Kurta",
+    "price": "1599.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301013511BLUE_1.jpg?v=1744808722",
+    "image_path": "images\\zuba-blue-botanical-design-a-line-kurta-301013511.jpg"
+  },
+  {
+    "name": "Studiowest Busy Me SPF 50 PA++++ Tinted Sunscreen - 40 gm",
+    "price": "395.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301012198NC_1.jpg?v=1744807461",
+    "image_path": "images\\studiowest-busy-me-spf-50-pa-tinted-sunscreen-40-gm-301012198001.jpg"
+  },
+  {
+    "name": "Utsa Navy Floral Design A-Line Cotton Dress",
+    "price": "999.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301015612NAVY_1.jpg?v=1744796898",
+    "image_path": "images\\utsa-navy-floral-design-a-line-cotton-dress-301015612.jpg"
+  },
+  {
+    "name": "Zuba Pink Leaf Design A-Line Kurta",
+    "price": "1599.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301013512PINK_1.jpg?v=1744796904",
+    "image_path": "images\\zuba-pink-leaf-design-a-line-kurta-301013512.jpg"
+  },
+  {
+    "name": "Vark White Floral A-Line Kurta, Palazzos and Dupatta Set",
+    "price": "3299.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301013337WHITE_1.jpg?v=1744796896",
+    "image_path": "images\\vark-white-floral-a-line-kurta-palazzos-and-dupatta-set-301013337.jpg"
+  },
+  {
+    "name": "LUNA BLU Ivory Floral Embroidered Artisanal Slides",
+    "price": "999.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301011584IVORY_1.jpg?v=1744382862",
+    "image_path": "images\\luna-blu-ivory-floral-embroidered-artisanal-slides-301011584.jpg"
+  },
+  {
+    "name": "LUNA BLU Beige Pearlescent Heel Sandals",
+    "price": "1499.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301012184BEIGE_1.jpg?v=1744382864",
+    "image_path": "images\\luna-blu-beige-pearlescent-heel-sandals-301012184.jpg"
+  },
+  {
+    "name": "Westside Accessories Beige Teardrop Raffia Earrings",
+    "price": "399.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301017270001_1.jpg?v=1744357126",
+    "image_path": "images\\westside-accessories-beige-teardrop-raffia-earrings-301017270001.jpg"
+  },
+  {
+    "name": "Diza Red Tribal-Inspired Ethnic Tunic",
+    "price": "1599.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301014094RED_1.jpg?v=1744289732",
+    "image_path": "images\\diza-red-tribal-inspired-ethnic-tunic-301014094.jpg"
+  },
+  {
+    "name": "Diza Multicolour Ikat Pattern Cotton A-Line Kurta",
+    "price": "999.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301014097PINK_1.jpg?v=1744289731",
+    "image_path": "images\\diza-multicolour-ikat-pattern-cotton-a-line-kurta-301014097.jpg"
+  },
+  {
+    "name": "LUNA BLU Ivory Floral Embellished Slides",
+    "price": "999.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301011587IVORY_1.jpg?v=1744289700",
+    "image_path": "images\\luna-blu-ivory-floral-embellished-slides-301011587.jpg"
+  },
+  {
+    "name": "Utsa Yellow Floral Design A-Line Kurta",
+    "price": "1299.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301015860YELLOW_1.jpg?v=1744260327",
+    "image_path": "images\\utsa-yellow-floral-design-a-line-kurta-301015860.jpg"
+  },
+  {
+    "name": "Vark White Floral A-Line Kurta, Palazzos and Dupatta Set",
+    "price": "3499.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301013500OFFWHITE_1.jpg?v=1744181149",
+    "image_path": "images\\vark-white-floral-a-line-kurta-palazzos-and-dupatta-set-301013500.jpg"
+  },
+  {
+    "name": "Vark Pink A-Line Kurta, Pants and Floral Dupatta Set",
+    "price": "2599.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301014532PURPLR_1.jpg?v=1744181210",
+    "image_path": "images\\vark-pink-a-line-kurta-pants-and-floral-dupatta-set-301014532.jpg"
+  },
+  {
+    "name": "Vark Dark Mauve Floral A-Line Kurti, Pants and Dupatta Set",
+    "price": "3299.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301013501LILAC_1.jpg?v=1744181090",
+    "image_path": "images\\vark-dark-mauve-floral-a-line-kurti-pants-and-dupatta-set-301013501.jpg"
+  },
+  {
+    "name": "Vark Light Pink Straight Kurti, Sharara and Dupatta Set",
+    "price": "3499.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301014534LILAC_1.jpg?v=1744181151",
+    "image_path": "images\\vark-light-pink-straight-kurti-sharara-and-dupatta-set-301014534.jpg"
+  },
+  {
+    "name": "Vark Lilac Floral Patterned Tunic and Pants Set",
+    "price": "2599.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301013335PURPLE_1.jpg?v=1744181091",
+    "image_path": "images\\vark-lilac-floral-patterned-tunic-and-pants-set-301013335.jpg"
+  },
+  {
+    "name": "Vark Orange A-Line Kurta, Pants and Floral Dupatta Set",
+    "price": "2599.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301014531ORANGE_1.jpg?v=1743657388",
+    "image_path": "images\\vark-orange-a-line-kurta-pants-and-floral-dupatta-set-301014531.jpg"
+  },
+  {
+    "name": "Studiowest Horizon Eau De Parfum - 50 ml",
+    "price": "595.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301007611001.jpg?v=1744272659",
+    "image_path": "images\\studiowest-horizon-eau-de-parfum-50-ml-301007611001.jpg"
+  },
+  {
+    "name": "Vark Grey Floral A-Line Kurta, Ethnic Pants and Dupatta Set",
+    "price": "2799.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301011023GREY_1.jpg?v=1743148071",
+    "image_path": "images\\vark-grey-floral-a-line-kurta-ethnic-pants-and-dupatta-set-301011023.jpg"
+  },
+  {
+    "name": "Vark Black Bootcut Ethnic Pants",
+    "price": "1899.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301011537BLACK_1.jpg?v=1743148070",
+    "image_path": "images\\vark-black-bootcut-ethnic-pants-301011537.jpg"
+  },
+  {
+    "name": "Diza White Floral Embroidered Cotton Ethnic Shirt",
+    "price": "1599.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301010233WHITE_1.jpg?v=1743148070",
+    "image_path": "images\\diza-white-floral-embroidered-cotton-ethnic-shirt-301010233.jpg"
+  },
+  {
+    "name": "Utsa White Heart Design High-Low Cotton-Blend Kurta",
+    "price": "1299.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301013635WHITE_1.jpg?v=1743050216",
+    "image_path": "images\\utsa-white-heart-design-high-low-cotton-blend-kurta-301013635.jpg"
+  },
+  {
+    "name": "Zuba Black Floral Embroidered Cotton Palazzos",
+    "price": "1299.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301014929BLACK_1.jpg?v=1742969658",
+    "image_path": "images\\zuba-black-floral-embroidered-cotton-palazzos-301014929.jpg"
+  },
+  {
+    "name": "Zuba Black Cut Work Detailed Linen-Blend A-Line Kurta",
+    "price": "2599.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301014939BLACK_1.jpg?v=1742969657",
+    "image_path": "images\\zuba-black-cut-work-detailed-linen-blend-a-line-kurta-301014939.jpg"
+  },
+  {
+    "name": "Zuba White Cut Work-Detailed Linen-Blend A-Line Kurta",
+    "price": "2599.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301014940WHITE_1.jpg?v=1742969641",
+    "image_path": "images\\zuba-white-cut-work-detailed-linen-blend-a-line-kurta-301014940.jpg"
+  },
+  {
+    "name": "Bombay Paisley Ivory Floral Embroidered Cotton Shirt",
+    "price": "999.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301012902IVORY_1.jpg?v=1742969024",
+    "image_path": "images\\bombay-paisley-ivory-floral-embroidered-cotton-shirt-301012902.jpg"
+  },
+  {
+    "name": "Bombay Paisley Ivory Floral Embroidered Top",
+    "price": "799.00",
+    "image_url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301012893IVORY_1.jpg?v=1742969084",
+    "image_path": "images\\bombay-paisley-ivory-floral-embroidered-top-301012893.jpg"
+  }
+]

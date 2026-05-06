@@ -1,0 +1,135 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Register | ReVamp</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600&family=Poppins:wght@400;500&display=swap" rel="stylesheet">
+  <style>
+    body {
+      background: url("{% static 'carousel_images/background.jpg' %}") no-repeat center center fixed;
+      background-size: cover;
+      color: #4b2e2e;
+      font-family: 'Poppins', sans-serif;
+      padding-top: 70px;
+    }
+    .navbar {
+      background-color: #fff0e6;
+    }
+    .navbar-brand {
+      font-family: 'Cinzel', serif;
+      font-weight: 600;
+      color: #8c1c13 !important;
+      font-size: 28px;
+    }
+    .navbar-nav .nav-link {
+      color: #5c3d3d !important;
+      margin: 0 12px;
+      font-weight: 500;
+    }
+    .navbar-nav .nav-link.active {
+      border-bottom: 2px solid #b02e0c;
+    }
+    .register-box {
+      background-color: #fff3e9;
+      padding: 40px;
+      border-radius: 12px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+      max-width: 500px;
+      width: 100%;
+      margin: auto;
+      margin-top: 30px;
+    }
+    h2 {
+      font-family: 'Cinzel', serif;
+      text-align: center;
+      color: #8c1c13;
+      margin-bottom: 30px;
+    }
+    .form-label {
+      font-weight: 500;
+      color: #4b2e2e;
+    }
+    .form-control {
+      background-color: #fff8f0;
+      border: 1px solid #e5c9b1;
+      border-radius: 8px;
+    }
+    .form-control:focus {
+      border-color: #a14d3a;
+      box-shadow: 0 0 0 0.2rem rgba(161, 77, 58, 0.25);
+    }
+    .btn-primary {
+      background-color: #8c1c13;
+      border: none;
+      font-weight: 500;
+    }
+    .btn-primary:hover {
+      background-color: #a5281c;
+    }
+    .text-link {
+      text-align: center;
+      margin-top: 15px;
+    }
+    .text-link a {
+      color: #8c1c13;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .text-link a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+{% include 'partials/navbar.html' %}
+
+<div class="register-box">
+  <h2>Create an Account</h2>
+  <form method="POST" novalidate>
+    {% csrf_token %}
+
+    <div class="mb-3">
+      <label for="id_username" class="form-label">Username</label>
+      <input type="text" name="username" class="form-control" id="id_username" placeholder="Choose a username" value="{{ form.username.value|default_if_none:'' }}">
+      {% if form.username.errors %}<div class="text-danger small">{{ form.username.errors.0 }}</div>{% endif %}
+    </div>
+
+    <div class="mb-3">
+      <label for="id_email" class="form-label">Email address</label>
+      <input type="email" name="email" class="form-control" id="id_email" placeholder="example@email.com" value="{{ form.email.value|default_if_none:'' }}">
+      {% if form.email.errors %}<div class="text-danger small">{{ form.email.errors.0 }}</div>{% endif %}
+    </div>
+
+    <div class="mb-3">
+      <label for="id_password1" class="form-label">Password</label>
+      <input type="password" name="password1" class="form-control" id="id_password1" placeholder="Enter a strong password">
+      {% if form.password1.errors %}<div class="text-danger small">{{ form.password1.errors.0 }}</div>{% endif %}
+    </div>
+
+    <div class="mb-3">
+      <label for="id_password2" class="form-label">Confirm Password</label>
+      <input type="password" name="password2" class="form-control" id="id_password2" placeholder="Re-enter your password">
+      {% if form.password2.errors %}<div class="text-danger small">{{ form.password2.errors.0 }}</div>{% endif %}
+    </div>
+
+    <div class="mb-3">
+      <label for="id_phone" class="form-label">Phone</label>
+      <input type="text" name="phone" class="form-control" id="id_phone" placeholder="10-digit number" value="{{ form.phone.value|default_if_none:'' }}">
+      {% if form.phone.errors %}<div class="text-danger small">{{ form.phone.errors.0 }}</div>{% endif %}
+    </div>
+
+    <button type="submit" class="btn btn-primary w-100">Register</button>
+  </form>
+
+  <div class="text-link">
+    <p>Already a user? <a href="{% url 'login' %}">Login here</a></p>
+  </div>
+</div>
+
+</body>
+</html>

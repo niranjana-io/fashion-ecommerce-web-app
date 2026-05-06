@@ -1,0 +1,219 @@
+{% load static %}
+{% include 'partials/navbar.html' %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ReVamp | Ethnic Elegance</title>
+
+  <!-- Bootstrap -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600&family=Poppins:wght@400;500&display=swap" rel="stylesheet" />
+
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Poppins', sans-serif;
+      color: white;
+      overflow-x: hidden;
+    }
+
+    /* Navbar */
+    .navbar {
+      position: fixed;
+      top: 0;
+      width: 100%;
+      background-color: transparent !important;
+      transition: background-color 0.3s ease;
+      z-index: 10;
+    }
+
+    .navbar:hover {
+      background-color: #fff0e6 !important;
+    }
+
+    .navbar-brand {
+      font-family: 'Cinzel', serif;
+      font-weight: 600;
+      color: white !important;
+      font-size: 28px;
+      transition: color 0.3s ease;
+    }
+
+    .navbar:hover .navbar-brand {
+      color: #8c1c13 !important;
+    }
+
+    .navbar-nav .nav-link {
+      color: white !important;
+      font-weight: 500;
+      margin: 0 12px;
+      transition: color 0.3s ease;
+    }
+
+    .navbar:hover .nav-link {
+      color: #5c3d3d !important;
+    }
+
+    .navbar-nav .nav-link.active {
+      border-bottom: 2px solid #ffffffcc;
+    }
+
+    .navbar:hover .nav-link.active {
+      border-bottom: 2px solid #b02e0c;
+    }
+
+    /* Hero Section */
+    .hero {
+      background: url("{% static 'carousel_images/carousel_1.webp' %}") no-repeat center center fixed;
+      background-size: cover;
+      height: 100vh;
+      position: relative;
+    }
+
+    .overlay {
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0, 0, 0, 0.5);
+      z-index: 1;
+    }
+
+    .hero-text {
+      position: relative;
+      z-index: 2;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      text-align: center;
+      padding-top: 70px;
+    }
+
+    .hero-text h1 {
+      font-family: 'Cinzel', serif;
+      font-size: 3.5rem;
+      text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.6);
+    }
+
+    .hero-text p {
+      font-size: 1.3rem;
+      margin-top: 15px;
+      text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+    }
+
+    .btn-primary {
+      background-color: #8c1c13;
+      border: none;
+      padding: 12px 24px;
+      font-weight: 500;
+      margin-top: 25px;
+    }
+
+    .btn-primary:hover {
+      background-color: #a5281c;
+    }
+
+    .btn-primary:active {
+      background-color: #8c1c13;
+    }
+
+    /* Second Section */
+    .second-section {
+      background: url("{% static 'carousel_images/carousel_3.jpeg' %}") no-repeat center center fixed;
+      background-size: cover;
+      height: 100vh;
+      position: relative;
+    }
+
+    .second-section::before {
+      content: "";
+      position: absolute;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background-color: rgba(0, 0, 0, 0.4);
+      z-index: 1;
+    }
+
+    .second-section-content {
+      position: relative;
+      z-index: 2;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      text-align: center;
+    }
+
+    .second-section h2 {
+      font-family: 'Cinzel', serif;
+      font-size: 2.8rem;
+      color: white;
+      text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+    }
+
+    .second-section p {
+      font-size: 1.1rem;
+      margin-top: 10px;
+      color: #f5f5f5;
+      text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+    }
+
+    footer {
+      background-color: rgba(255, 255, 255, 0.85);
+      color: #5c3d3d;
+      text-align: center;
+      padding: 20px;
+      font-size: 14px;
+      position: relative;
+      z-index: 2;
+    }
+
+    @media (max-width: 768px) {
+      .hero-text h1 {
+        font-size: 2.2rem;
+      }
+      .hero-text p {
+        font-size: 1rem;
+      }
+      .second-section h2 {
+        font-size: 2rem;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<!-- Hero Section -->
+<section class="hero">
+  <div class="overlay"></div>
+  <div class="hero-text">
+    <h1>Celebrate Style & Tradition</h1>
+    <p>Elegant Indian Fashion, Reimagined for Today</p>
+    <a href="{% url 'products' %}" class="btn btn-primary">Explore Now</a>
+  </div>
+</section>
+
+<!-- Second Fixed Background Section -->
+<section class="second-section">
+  <div class="second-section-content">
+    <h2>Modern Looks, Timeless Elegance</h2>
+    <p>Where every thread tells a story.</p>
+  </div>
+</section>
+
+<!-- Footer -->
+<footer>
+  <p>&copy; 2025 ReVamp. Made with grace & love.</p>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
